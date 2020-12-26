@@ -14,6 +14,7 @@
 		388289A525971CC6007426FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 388289A425971CC6007426FD /* Assets.xcassets */; };
 		388289A825971CC6007426FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 388289A625971CC6007426FD /* LaunchScreen.storyboard */; };
 		388289B025971DEA007426FD /* chapter1 in Resources */ = {isa = PBXBuildFile; fileRef = 388289AF25971DEA007426FD /* chapter1 */; };
+		388289B225972289007426FD /* Chapter 2 in Resources */ = {isa = PBXBuildFile; fileRef = 388289B125972289007426FD /* Chapter 2 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		388289A725971CC6007426FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		388289A925971CC6007426FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		388289AF25971DEA007426FD /* chapter1 */ = {isa = PBXFileReference; lastKnownFileType = text; path = chapter1; sourceTree = "<group>"; };
+		388289B125972289007426FD /* Chapter 2 */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Chapter 2"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		3882898F25971CC1007426FD = {
 			isa = PBXGroup;
 			children = (
+				388289B125972289007426FD /* Chapter 2 */,
 				3882899A25971CC1007426FD /* pushkin */,
 				3882899925971CC1007426FD /* Products */,
 			);
@@ -130,6 +133,7 @@
 			files = (
 				388289B025971DEA007426FD /* chapter1 in Resources */,
 				388289A825971CC6007426FD /* LaunchScreen.storyboard in Resources */,
+				388289B225972289007426FD /* Chapter 2 in Resources */,
 				388289A525971CC6007426FD /* Assets.xcassets in Resources */,
 				388289A325971CC1007426FD /* Main.storyboard in Resources */,
 			);
